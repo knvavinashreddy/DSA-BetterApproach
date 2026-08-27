@@ -46,6 +46,7 @@
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -64,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
@@ -119,4 +121,8 @@
 |  |
 | ------- |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
