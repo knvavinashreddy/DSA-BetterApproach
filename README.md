@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0125-valid-palindrome) |
@@ -125,4 +127,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
