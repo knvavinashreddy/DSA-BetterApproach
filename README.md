@@ -30,12 +30,14 @@
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 ## Quickselect
 |  |
 | ------- |
@@ -67,6 +69,7 @@
 | [0125-valid-palindrome](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -82,6 +85,7 @@
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -102,10 +106,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 ## Counting
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
