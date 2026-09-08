@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
@@ -138,6 +140,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
