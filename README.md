@@ -83,6 +83,7 @@
 | [0242-valid-anagram](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
+| [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
@@ -101,6 +102,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0560-subarray-sum-equals-k) |
+| [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
 ## Binary Search
 |  |
 | ------- |
