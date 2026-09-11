@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
@@ -24,6 +25,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -162,6 +164,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
