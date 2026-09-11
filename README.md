@@ -18,6 +18,7 @@
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0560-subarray-sum-equals-k) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Divide and Conquer
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
 |  |
 | ------- |
