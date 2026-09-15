@@ -5,24 +5,12 @@ public:
         int minProduct = nums[0];
         int ans = nums[0];
 
-        for (int i = 1; i < nums.size(); i++) {
-
-            int currMax = max({
-                nums[i],
-                nums[i] * maxProduct,
-                nums[i] * minProduct
-            });
-
-            int currMin = min({
-                nums[i],
-                nums[i] * maxProduct,
-                nums[i] * minProduct
-            });
-
-            maxProduct = currMax;
-            minProduct = currMin;
-
-            ans = max(ans, maxProduct);
+        for(int i=1;i<nums.size();i++){
+            int x = nums[i];
+            if(x < 0) swap(maxProduct,minProduct);
+            maxProduct = max(x,maxProduct * x);
+            minProduct = min(x,minProduct * x);
+            ans = max(maxProduct,ans);
         }
 
         return ans;
