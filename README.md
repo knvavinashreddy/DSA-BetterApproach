@@ -12,6 +12,7 @@
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0215-kth-largest-element-in-an-array) |
@@ -165,6 +166,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0152-maximum-product-subarray) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Recursion
