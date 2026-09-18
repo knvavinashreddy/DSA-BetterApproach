@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0018-4sum) |
+| [0035-search-insert-position](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
@@ -112,6 +113,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
