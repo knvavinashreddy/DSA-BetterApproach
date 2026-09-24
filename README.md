@@ -67,6 +67,7 @@
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
+| [2652-sum-multiples](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
