@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -174,6 +175,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
@@ -215,4 +217,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
