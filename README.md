@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -110,6 +111,7 @@
 | [0001-two-sum](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0073-set-matrix-zeroes) |
 | [0205-isomorphic-strings](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
@@ -221,4 +223,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
