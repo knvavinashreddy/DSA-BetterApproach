@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
