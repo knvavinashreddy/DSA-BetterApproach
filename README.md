@@ -80,6 +80,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
 | ------- |
