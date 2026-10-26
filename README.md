@@ -74,6 +74,7 @@
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -160,6 +161,7 @@
 | ------- |
 | [0136-single-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Indexed Tree
 |  |
 | ------- |
