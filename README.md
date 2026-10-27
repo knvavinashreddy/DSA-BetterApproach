@@ -73,6 +73,7 @@
 | [0189-rotate-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0268-missing-number) |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -227,10 +228,12 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
@@ -238,4 +241,20 @@
 | [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0240-search-a-2d-matrix-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
