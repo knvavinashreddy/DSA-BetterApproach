@@ -80,6 +80,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2652-sum-multiples) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -109,6 +110,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 | [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -224,6 +227,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
 |  |
@@ -257,4 +261,8 @@
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0365-water-and-jug-problem) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
