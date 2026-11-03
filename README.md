@@ -95,6 +95,7 @@
 | [0283-move-zeroes](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -107,6 +108,7 @@
 | [0205-isomorphic-strings](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
@@ -199,6 +201,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
