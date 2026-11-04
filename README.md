@@ -30,6 +30,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3115-maximum-prime-difference](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3115-maximum-prime-difference) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 | [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Divide and Conquer
@@ -80,6 +81,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2652-sum-multiples) |
+| [3115-maximum-prime-difference](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -230,6 +232,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3115-maximum-prime-difference](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3115-maximum-prime-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Euclidean Algorithm
@@ -268,4 +271,8 @@
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Primality Test
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
