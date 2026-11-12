@@ -114,6 +114,7 @@
 | [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Stack
@@ -121,6 +122,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
 | ------- |
