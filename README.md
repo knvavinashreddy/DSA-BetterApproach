@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0918-maximum-sum-circular-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -119,6 +120,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +198,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
