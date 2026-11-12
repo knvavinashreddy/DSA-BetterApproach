@@ -275,4 +275,8 @@
 |  |
 | ------- |
 | [3115-maximum-prime-difference](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3115-maximum-prime-difference) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
