@@ -114,6 +114,7 @@
 | [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
 | [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -123,6 +124,7 @@
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Hash Table
 |  |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -285,6 +288,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
