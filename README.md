@@ -25,6 +25,7 @@
 | [0347-top-k-frequent-elements](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0682-baseball-game) |
 | [0875-koko-eating-bananas](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0875-koko-eating-bananas) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0918-maximum-sum-circular-subarray) |
@@ -227,6 +228,7 @@
 ## Queue
 |  |
 | ------- |
+| [0641-design-circular-deque](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0641-design-circular-deque) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -293,4 +295,9 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0641-design-circular-deque) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
