@@ -114,6 +114,7 @@
 | [0344-reverse-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0451-sort-characters-by-frequency) |
+| [0649-dota2-senate](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0649-dota2-senate) |
 | [0771-jewels-and-stones](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0771-jewels-and-stones) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -195,6 +196,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0649-dota2-senate) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -231,6 +233,7 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0232-implement-queue-using-stacks) |
 | [0641-design-circular-deque](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0641-design-circular-deque) |
+| [0649-dota2-senate](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0649-dota2-senate) |
 | [0918-maximum-sum-circular-subarray](https://github.com/avinashreddykonala1-coder/DSA-BetterApproach/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
